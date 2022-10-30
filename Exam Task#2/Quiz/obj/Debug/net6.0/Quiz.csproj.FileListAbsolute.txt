@@ -1,0 +1,17 @@
+C:\Users\Zero\Desktop\Exam Task#2\Quiz\bin\Debug\net6.0\Quiz.exe
+C:\Users\Zero\Desktop\Exam Task#2\Quiz\bin\Debug\net6.0\Quiz.deps.json
+C:\Users\Zero\Desktop\Exam Task#2\Quiz\bin\Debug\net6.0\Quiz.runtimeconfig.json
+C:\Users\Zero\Desktop\Exam Task#2\Quiz\bin\Debug\net6.0\Quiz.dll
+C:\Users\Zero\Desktop\Exam Task#2\Quiz\bin\Debug\net6.0\Quiz.pdb
+C:\Users\Zero\Desktop\Exam Task#2\Quiz\bin\Debug\net6.0\Quiz Library.dll
+C:\Users\Zero\Desktop\Exam Task#2\Quiz\obj\Debug\net6.0\Quiz.csproj.AssemblyReference.cache
+C:\Users\Zero\Desktop\Exam Task#2\Quiz\obj\Debug\net6.0\Quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zero\Desktop\Exam Task#2\Quiz\obj\Debug\net6.0\Quiz.AssemblyInfoInputs.cache
+C:\Users\Zero\Desktop\Exam Task#2\Quiz\obj\Debug\net6.0\Quiz.AssemblyInfo.cs
+C:\Users\Zero\Desktop\Exam Task#2\Quiz\obj\Debug\net6.0\Quiz.csproj.CoreCompileInputs.cache
+C:\Users\Zero\Desktop\Exam Task#2\Quiz\obj\Debug\net6.0\Quiz.csproj.CopyComplete
+C:\Users\Zero\Desktop\Exam Task#2\Quiz\obj\Debug\net6.0\Quiz.dll
+C:\Users\Zero\Desktop\Exam Task#2\Quiz\obj\Debug\net6.0\refint\Quiz.dll
+C:\Users\Zero\Desktop\Exam Task#2\Quiz\obj\Debug\net6.0\Quiz.pdb
+C:\Users\Zero\Desktop\Exam Task#2\Quiz\obj\Debug\net6.0\Quiz.genruntimeconfig.cache
+C:\Users\Zero\Desktop\Exam Task#2\Quiz\obj\Debug\net6.0\ref\Quiz.dll

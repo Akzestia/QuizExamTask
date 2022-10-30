@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RuoxRliAeyJjRBqTfaMz17oI7FasQ5wXPX46saUdw5IZNoQW5iHBtKqE5M+Tg2j4jer96HYrsAwoXId0LtH8hQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zero\\Desktop\\Exam Task#2\\Quiz Utility\\Quiz Utility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zero\\.nuget\\packages\\quiz-library\\1.1.0\\quiz-library.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

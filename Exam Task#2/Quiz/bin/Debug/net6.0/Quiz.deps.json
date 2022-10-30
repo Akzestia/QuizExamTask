@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Quiz/1.0.0": {
+        "dependencies": {
+          "Quiz-Library": "1.1.0"
+        },
+        "runtime": {
+          "Quiz.dll": {}
+        }
+      },
+      "Quiz-Library/1.1.0": {
+        "runtime": {
+          "lib/net6.0/Quiz Library.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Quiz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Quiz-Library/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+fZ4sBQ5BK9eKvB7adhVgqwd8ujEleKbBl5UBmxe3iSUDa/9VlGu8Q2ntzXGT1OYvn9tAAq+5LanaFRkiBbi+Q==",
+      "path": "quiz-library/1.1.0",
+      "hashPath": "quiz-library.1.1.0.nupkg.sha512"
+    }
+  }
+}
